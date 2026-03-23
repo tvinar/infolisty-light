@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<informacnyList>
+         <id>135568</id>
+         <kodTypPredmetu>B</kodTypPredmetu>
+         <skratka>1-AIN-160</skratka>
+         <kod>FMFI.KAI/1-AIN-160/22</kod>
+         <nazov>Diskrétna matematika (2)</nazov>
+         <kredit>8</kredit>
+         <sposobUkoncenia>Hodnotenie</sposobUkoncenia>
+         <sposobVyucby>kurz</sposobVyucby>
+         <rozsahTyzdenny>4</rozsahTyzdenny>
+         <rozsahSemestranly>52</rozsahSemestranly>
+         <obdobie>2</obdobie>
+         <doplnujuceUdaje>(Jednoodborové štúdium, bakalársky I. st., denná forma)</doplnujuceUdaje>
+         <kodSemesterStudPlan>L</kodSemesterStudPlan>
+         <rokRocnikStudPlan>1</rokRocnikStudPlan>
+         <zabezpecuju>doc. RNDr. Tatiana Jajcayová, PhD., Ing. Ján Komara, PhD., Mgr. Peter Náther, PhD., Mgr. Andrej Mihálik, PhD., doc. RNDr. Dušan Guller, PhD., Mgr. Iveta Bečková, PhD.</zabezpecuju>
+         <datumSchvalenia>12.11.2024</datumSchvalenia>
+         <datumPoslednejZmeny>26.06.2022</datumPoslednejZmeny>
+         <podmienujucePredmety>FMFI.KAI/1-AIN-121/22</podmienujucePredmety>
+         <podmienujucePredmetyNazov>FMFI.KAI/1-AIN-121/22 - Diskrétna matematika (1)</podmienujucePredmetyNazov>
+         <podmPredmetyKodNazov>1-AIN-121 - Diskrétna matematika (1)</podmPredmetyKodNazov>
+         <vylucujucePredmety>FMFI.KAI/1-AIN-160/00</vylucujucePredmety>
+         <vylucujucePredmetyNazov>FMFI.KAI/1-AIN-160/00 - Diskrétna matematika (2)</vylucujucePredmetyNazov>
+         <vylucujucePredmetyKodNazov>1-AIN-160 - Diskrétna matematika (2)</vylucujucePredmetyKodNazov>
+         <alternujucePredmety>FMFI.KAI/1-AIN-160/15</alternujucePredmety>
+         <alternujucePredmetyNazov>FMFI.KAI/1-AIN-160/15 - Matematika (3) - Diskrétna matematika</alternujucePredmetyNazov>
+         <alternujucePredmetyKodNazov>1-AIN-160 - Matematika (3) - Diskrétna matematika</alternujucePredmetyKodNazov>
+         <garanti>
+            <garant>
+               <typGarantaId>8</typGarantaId>
+               <typGaranta>osoba zodpovedná za realizáciu študijného programu</typGaranta>
+               <plneMeno>doc. RNDr. Damas Gruska, PhD.</plneMeno>
+               <pridelenyEmail>gruska1@uniba.sk</pridelenyEmail>
+            </garant>
+         </garanti>
+         <sposobyVyucbyRozsahMetoda>
+            <sposobVyucbyRozsahMetoda>
+               <sposobVyucby>kurz</sposobVyucby>
+               <rozsahTyzdenny>4</rozsahTyzdenny>
+               <rozsahSemestralny>52</rozsahSemestralny>
+               <metodaStudia>prezenčná</metodaStudia>
+            </sposobVyucbyRozsahMetoda>
+         </sposobyVyucbyRozsahMetoda>
+         <podmienujucePredmetyStrukt>
+            <podmienujuciPredmet>
+               <idPredmet>135563</idPredmet>
+               <textPred />
+               <skratka>FMFI.KAI/1-AIN-121/22</skratka>
+               <kod>1-AIN-121</kod>
+               <nazov>Diskrétna matematika (1)</nazov>
+               <textZa />
+            </podmienujuciPredmet>
+         </podmienujucePredmetyStrukt>
+         <vylucujucePredmetyStrukt>
+            <vylucujuciPredmet>
+               <idPredmet>28561</idPredmet>
+               <textPred />
+               <skratka>FMFI.KAI/1-AIN-160/00</skratka>
+               <kod>1-AIN-160</kod>
+               <nazov>Diskrétna matematika (2)</nazov>
+               <textZa />
+            </vylucujuciPredmet>
+         </vylucujucePredmetyStrukt>
+         <alternujucePredmetyStrukt>
+            <alternujuciPredmet>
+               <idPredmet>104206</idPredmet>
+               <textPred />
+               <skratka>FMFI.KAI/1-AIN-160/15</skratka>
+               <kod>1-AIN-160</kod>
+               <nazov>Matematika (3) - Diskrétna matematika</nazov>
+               <textZa />
+            </alternujuciPredmet>
+         </alternujucePredmetyStrukt>
+         <kodyTypovVyucby>
+            <kodtypVyucby>A</kodtypVyucby>
+         </kodyTypovVyucby>
+         <studijneProgramy>
+            <studijnyProgram>
+               <id>980</id>
+               <skratka>AIN</skratka>
+               <popis>aplikovaná informatika</popis>
+               <kodSemester>L</kodSemester>
+               <rokRocnik>1</rokRocnik>
+               <metodaStudia>prezenčná</metodaStudia>
+               <semesterPoradie>2</semesterPoradie>
+            </studijnyProgram>
+         </studijneProgramy>
+         <stupneStudijnychProgramov>I.</stupneStudijnychProgramov>
+         <metodyStudia>
+            <metodaStudia>prezenčná</metodaStudia>
+         </metodyStudia>
+         <jeZaradenyVStudijnomPlane>true</jeZaradenyVStudijnomPlane>
+         <stupenPredmetu>I.</stupenPredmetu>
+         <vyucujuciAll>
+            <vyucujuci>
+               <idOsoby>1029376</idOsoby>
+               <poradie>1</poradie>
+               <typ>P</typ>
+               <typPopis>prednášajúci</typPopis>
+               <meno>Tatiana</meno>
+               <priezvisko>Jajcayová</priezvisko>
+               <plneMeno>doc. RNDr. Tatiana Jajcayová, PhD.</plneMeno>
+               <pridelenyEmail>jajcayova1@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+            <vyucujuci>
+               <idOsoby>1027646</idOsoby>
+               <poradie>2</poradie>
+               <typ>P</typ>
+               <typPopis>prednášajúci</typPopis>
+               <meno>Ján</meno>
+               <priezvisko>Komara</priezvisko>
+               <plneMeno>Ing. Ján Komara, PhD.</plneMeno>
+               <pridelenyEmail>komara1@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+            <vyucujuci>
+               <idOsoby>1047823</idOsoby>
+               <poradie>3</poradie>
+               <typ>C</typ>
+               <typPopis>cvičiaci</typPopis>
+               <meno>Peter</meno>
+               <priezvisko>Náther</priezvisko>
+               <plneMeno>Mgr. Peter Náther, PhD.</plneMeno>
+               <pridelenyEmail>nather2@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+            <vyucujuci>
+               <idOsoby>1020062</idOsoby>
+               <poradie>4</poradie>
+               <typ>C</typ>
+               <typPopis>cvičiaci</typPopis>
+               <meno>Andrej</meno>
+               <priezvisko>Mihálik</priezvisko>
+               <plneMeno>Mgr. Andrej Mihálik, PhD.</plneMeno>
+               <pridelenyEmail>mihalik8@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+            <vyucujuci>
+               <idOsoby>1006503</idOsoby>
+               <poradie>5</poradie>
+               <typ>C</typ>
+               <typPopis>cvičiaci</typPopis>
+               <meno>Dušan</meno>
+               <priezvisko>Guller</priezvisko>
+               <plneMeno>doc. RNDr. Dušan Guller, PhD.</plneMeno>
+               <pridelenyEmail>guller2@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+            <vyucujuci>
+               <idOsoby>1211577</idOsoby>
+               <poradie>6</poradie>
+               <typ>C</typ>
+               <typPopis>cvičiaci</typPopis>
+               <meno>Iveta</meno>
+               <priezvisko>Bečková</priezvisko>
+               <plneMeno>Mgr. Iveta Bečková, PhD.</plneMeno>
+               <pridelenyEmail>beckova9@uniba.sk</pridelenyEmail>
+               <jazykyPredmetu>slovenský</jazykyPredmetu>
+            </vyucujuci>
+         </vyucujuciAll>
+         <jazykyVyucbyPredmetu>
+            <jazykVyucby>
+               <skratka>SK</skratka>
+               <popis>slovenský</popis>
+            </jazykVyucby>
+            <jazykyVyucbyPredmetuSpolu>slovenský</jazykyVyucbyPredmetuSpolu>
+         </jazykyVyucbyPredmetu>
+         <rocniky>
+            <semester>L</semester>
+            <rocnik>
+               <semesterPoradie>2</semesterPoradie>
+            </rocnik>
+         </rocniky>
+         <_L_>
+            <popisTypuTextu>Odporúčaná literatúra</popisTypuTextu>
+            <texty>
+               <p>Discrete and combinatorial mathematics : An applied introduction / Ralph P. Grimaldi. Boston : Pearson/Addison-Wesley, 2004</p>
+               <p>Teória čísel / Štefan Znám. Bratislava : Alfa, 1986</p>
+               <p>Kombinatorika a teória grafov / Štefan Znám. Bratislava : Univerzita Komenského, 1989</p>
+               <p>Kombinatorika a teória grafov I / Martin Knor. Bratislava : Univerzita Komenského, 2000</p>
+               <p>Množiny a všeličo okolo nich / Lev Bukovský. Košice : Univerzita Pavla Jozefa Šafárika, 2005</p>
+               <p>Kapitoly z diskrétní matematiky / Jiří Matoušek, Jaroslav Nešetřil. Praha : Karolinum, 2007</p>
+               <p>Concrete Mathematics : A Foundation for Computer Science / Ronald L. Graham, Donald E. Knuth, Oren Patashnik. Upper Saddle River : Addison-Wesley, 1994</p>
+               <p>T. Jajcayova, J. Komara: vlastné elektronické texty predmetu zverejňované na web stránke predmetu a v MOODLEi.</p>
+            </texty>
+         </_L_>
+         <_O_>
+            <popisTypuTextu>Obsahová prerekvizita</popisTypuTextu>
+            <texty>
+               <p>1-AIN-121/15 Diskrétna matematika 1 </p>
+            </texty>
+         </_O_>
+         <_PA_>
+            <popisTypuTextu>Podmienky na absolvovanie predmetu</popisTypuTextu>
+            <texty>
+               <p>Priebežné hodnotenie: hodnotené domáce úlohy, testy, aktivity na cviceniach, písomky. Študent musí získať aspoň 55% bodov zo semestra, aby mohol absolvovať záverečnú skúšku. </p>
+               <p>Skúška: skúška pozostávajúca z písomnej a ústnej časti. Študent musí získať aspoň 50% bodov z písomky,</p>
+               <p>Orientačná stupnica hodnotenia: A 90%, B 80%, C 70%, D 60%, E 55%. </p>
+            </texty>
+         </_PA_>
+         <_PJ_>
+            <popisTypuTextu>Jazyk, ktorého znalosť je potrebná na absolvovanie predmetu</popisTypuTextu>
+            <texty>
+               <p>slovenský, anglický</p>
+            </texty>
+         </_PJ_>
+         <_SO_>
+            <popisTypuTextu>Stručná osnova predmetu</popisTypuTextu>
+            <texty>
+               <p>Stručná osnova predmetu:</p>
+               <p>Relácie na množine, reprezentácie relácii (množiny, grafy a matice), vlastnosti, významné relácie (ekvivalencia, čiastočné usporiadanie), rozklady množiny. (Ilustrované na základnej teórii čísel: deliteľnosť, prvočíselnosť, modulárna aritmetika apod.) </p>
+               <p>Teórie grafov, základné pojmy.</p>
+               <p>Pokročilé enumerovanie: princípy, algoritmy a analýza zložitosti týchto algoritmov.</p>
+               <p>Teória množín – mohutnosti, spočítateľné a nespočítateľné množiny. (Ilustrované na základnej teórii formalnych jazykov a kombinatoriky na slovách.) Cantorova diagonalizačná metóda.</p>
+               <p>Rekurentné vzťahy, homogénne, nehomogénne, riešenia rekurentných rovníc 1. a 2. rádu (v prípade s komplexnými koreňmi preopakovanie základných operácií a vlastností, goniometrický tvar komplexných čísel.) Aplikácie do analýzy zložitosti algoritmov.</p>
+               <p>Vytvarajúce funkcie.</p>
+            </texty>
+         </_SO_>
+         <_URL_>
+            <popisTypuTextu>URL webovej stránky predmetu</popisTypuTextu>
+            <texty>
+               <p>https://dai.fmph.uniba.sk/w/Course:Mathematics_3_-_Discrete_Mathematics/sk</p>
+            </texty>
+         </_URL_>
+         <_VH_>
+            <popisTypuTextu>Váha hodnotenia predmetu (priebežné/záverečné)</popisTypuTextu>
+            <texty>
+               <p>50/50</p>
+            </texty>
+         </_VH_>
+         <_VV_>
+            <popisTypuTextu>Výsledky vzdelávania</popisTypuTextu>
+            <texty>
+               <p>Prednáška pokračuje v budovaní matematických základov, ako aj pokročilejších pojmov z diskrétnej matematiky nevyhnutných pre štúdium informatiky, s dôrazom na algoritmický prístup, aplikácie v informatike a programovaní. Študenti sú naďalej vedení k osvojovaniu si matematickej kultúry, spôsobu myslenia, argumentácie a vyjadrovania v matematike.</p>
+            </texty>
+         </_VV_>
+         <hodnoteniaPredmetu>
+            <hodnoteniePredmetu>
+               <kod>A</kod>
+               <pocetHodnoteni>45</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>6.3</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <hodnoteniePredmetu>
+               <kod>B</kod>
+               <pocetHodnoteni>64</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>8.96</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <hodnoteniePredmetu>
+               <kod>C</kod>
+               <pocetHodnoteni>117</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>16.39</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <hodnoteniePredmetu>
+               <kod>D</kod>
+               <pocetHodnoteni>211</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>29.55</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <hodnoteniePredmetu>
+               <kod>E</kod>
+               <pocetHodnoteni>129</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>18.07</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <hodnoteniePredmetu>
+               <kod>FX</kod>
+               <pocetHodnoteni>148</pocetHodnoteni>
+               <percentualneVyjadrenieZCelkPoctuHodnoteni>20.73</percentualneVyjadrenieZCelkPoctuHodnoteni>
+            </hodnoteniePredmetu>
+            <celkovyPocetHodnotenychStudentov>714</celkovyPocetHodnotenychStudentov>
+            <pocetTypovHodnoteni>6</pocetTypovHodnoteni>
+         </hodnoteniaPredmetu>
+      </informacnyList>
+      
